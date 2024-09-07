@@ -131,7 +131,7 @@ def main():
     
     st.title("NUTRIGUIDE")
 
-    image = Image.open('WhatsApp Image 2024-04-19 at 16.08.15.jpeg')
+    image = Image.open('Image.jpeg')
     st.image(image, width=500)
     
     hide_streamlit_style = """
